@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "Max Mustermann",
+        "department": "Bilisim",
+        "maas": 3000
+    },
+    {
+        "Name": "Halime Yüksel",
+        "department": "Bilisim",
+        "maas": 4000
+    },
+    {
+        "Name": "Halime Ögüt",
+        "department": "Pazarlama",
+        "maas": 5000
+    }
+]
